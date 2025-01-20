@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Spieler
+comment0.text=\r\n\ Klasse\ Spieler\ <br>\r\n\ Arbeitsauftrag\ 3b),\ Aufgabe\ 1\r\n
+comment1.params=startGeschwindigkeit\ bild\ ObenTaste\ UntenTaste
+comment1.target=Spieler(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKeyPress()
+numComments=4
